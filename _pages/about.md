@@ -14,9 +14,10 @@ My potential research interest lies in probability theory and applications. Curr
 Other interests: cinema studies, culinary arts, and paleontology. Here is my [curriculum vitae](https://rexliu9.github.io/files/academic_cv_Feb24.pdf).
 
 ### Projects
-+ (Ongoing) Convergence of Markov chains, MCMC
++ (Ongoing, master's thesis) Convergence of Markov chains, MCMC, MALA
 + (Ongoing, with preview) [Preparation for Quantitative Finance Interviews](https://rexliu9.github.io/files/Quant_Interview_Prep_prev.pdf)
-+ PhD Advanced Topics in Probability Project: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
++ Advanced Topics in Numerical Analysis Project: [The Proximal Point Method: An Introduction](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
++ Advanced Topics in Probability Theory Project: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
 + Graduate Machine Learning Project: [Class Embeddings Enter Class-conditional Diffusion Models](https://rexliu9.github.io/files/ceec_diffusion.pdf), with Zixuan Dong, Chuanyang Jin, and Peiqi Liu
 + Graduate Cryptocurrency and Blockchains Course Project: [Shamir’s secret sharing](https://rexliu9.github.io/files/Shamir’s_secret_sharing.pdf), with Sushmanth Kakulla and Paul Wawszczyk
-+ Undergraduate Summer Research [The Heawood Conjecture: Abstract and Presentation](https://rexliu9.github.io/files/sure_slides.pdf)
++ Undergraduate Summer Research Presentation: [The Heawood Conjecture: An Introduction](https://rexliu9.github.io/files/sure_slides.pdf)
