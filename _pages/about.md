@@ -13,9 +13,9 @@ I am Rex Liu, an incoming student in the Master of Science in [Computational Fin
 I'm working on my Master's thesis advised by [Prof. Jonathan Goodman](https://math.nyu.edu/~goodman/), about the convergence of Markov chains and Markov chain Monte Carlo. Previously I have been doing a reading advised by [Prof. Fedor Bogomolov](https://math.nyu.edu/people/profiles/BOGOMOLOV_Fedor.html), focusing on topological graph theory (graph embedding on surfaces, Heawood conjecture, and the four-color theorem) in Summer 2022. I joined the [Ross](https://rossprogram.org/) math camp studying number theory in Summer 2019.
 
 ### Selected Coursework
-+ **Grad Level Math:** Real Variables, Probability Theory, Stochastic Analysis, Large Deviation, ODEs, Linear Algebra, Convex Optimization, Machine Learning;
-+ **Grad Level Mathematical Finance:** Stochastic Calculus, Time Series Analysis, Alternative Data, Derivative Securities, Risk Management, Cryptocurrency;
-+ **Undergraduate:** Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Algebra, Combinatorics, Computer Systems Organization
++ *Grad Level Math:* Real Variables, Probability Theory, Stochastic Analysis, Large Deviation, ODEs, Linear Algebra, Convex Optimization, Machine Learning;
++ *Grad Level Mathematical Finance:* Stochastic Calculus, Time Series Analysis, Alternative Data, Derivative Securities, Risk Management, Cryptocurrency;
++ *Undergrad Level:* Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Algebra, Combinatorics, Computer Systems Organization
 
 ### Projects
 + (Ongoing, master's thesis) Convergence of Markov chains, MCMC, MALA
