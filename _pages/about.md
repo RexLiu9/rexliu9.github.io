@@ -20,10 +20,10 @@ I'm working on my Master's thesis advised by [Prof. Jonathan Goodman](https://ma
 ### Projects
 + (Ongoing, master's thesis) Convergence of Markov chains, MCMC, MALA
 + (Ongoing, with preview) [Preparation for Quantitative Finance Interviews](https://rexliu9.github.io/files/Quant_Interview_Prep_prev.pdf)
-+ Advanced Topics in Numerical Analysis Course Project: [The Proximal Point Method: An Introduction](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
-+ Advanced Topics in Probability Theory Course Project: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
-+ Graduate Level Machine Learning Course Project: [Class Embeddings Enter Class-conditional Diffusion Models](https://rexliu9.github.io/files/ceec_diffusion.pdf), with Zixuan Dong, Chuanyang Jin, and Peiqi Liu
-+ Graduate Level Cryptocurrency and Blockchains Course Project: [Shamir’s secret sharing](https://rexliu9.github.io/files/Shamir’s_secret_sharing.pdf), with Sushmanth Kakulla and Paul Wawszczyk
++ Convex Optimization Course Project: [The Proximal Point Method: An Introduction](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
++ Large Deviation and Interface Models Course Project: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
++ Machine Learning Course Project: [Class Embeddings Enter Class-conditional Diffusion Models](https://rexliu9.github.io/files/ceec_diffusion.pdf), with Zixuan Dong, Chuanyang Jin, and Peiqi Liu
++ Cryptocurrency and Blockchains Course Project: [Shamir’s secret sharing](https://rexliu9.github.io/files/Shamir’s_secret_sharing.pdf), with Sushmanth Kakulla and Paul Wawszczyk
 + Undergraduate Summer Research Presentation: [The Heawood Conjecture: An Introduction](https://rexliu9.github.io/files/sure_slides.pdf)
 
 ### Interests
