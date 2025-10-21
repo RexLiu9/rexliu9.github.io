@@ -22,11 +22,11 @@ microstructure and algorithmic trading, Risk and portfolio management;
 
 ### Projects
 + (Ongoing, over 200 pages completed with over 180 exercises) [Preparation for Quantitative Finance Interviews (Preview)](https://rexliu9.github.io/files/Quant_Prep_prev.pdf)
-+ Research Presentation in Convex Optimization: [The Proximal Point Method: An Introduction](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
++ Research Presentation in Convex Optimization: [The Proximal Point Method](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
 + Research Report in Large Deviation and Interface Models: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
 + Research Report in Machine Learning: [Class Embeddings Enter Class-conditional Diffusion Models](https://rexliu9.github.io/files/ceec_diffusion.pdf), with Zixuan Dong, Chuanyang Jin, and Peiqi Liu
 + Research Presentation in Cryptocurrency and Blockchains: [Shamir’s secret sharing](https://rexliu9.github.io/files/Shamir’s_secret_sharing.pdf), with Sushmanth Kakulla and Paul Wawszczyk
-+ Research Presentation in Topological Graph Theory: [The Heawood Conjecture: An Introduction](https://rexliu9.github.io/files/sure_slides.pdf)
++ Research Presentation in Topological Graph Theory: [The Heawood Conjecture](https://rexliu9.github.io/files/sure_slides.pdf)
 
 ### Miscellaneous
 + *Programming Languages*: Python, Q, R, MATLAB, Julia, Java, C/C++
