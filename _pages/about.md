@@ -10,7 +10,7 @@ redirect_from:
 I am Rex Liu, a second-year student in the Master of Science in [Computational Finance](https://www.cmu.edu/mscf/) (MSCF) program at Carnegie Mellon University's Tepper School of Business. I earned my Master's in [Mathematics](https://math.nyu.edu/dynamic/graduate/ms-gsas/ms-mathematics/) from New York University (NYU)'s Courant Institute, where I also completed my undergraduate degree in [Honors Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/majors-minors/honors-programs/#honors-math-major) with minors in [Computer Science](https://cs.nyu.edu/home/undergrad/minor_programs.html) and [Cinema Studies](https://tisch.nyu.edu/cinema-studies) at the Tisch School of the Arts.
 
 ### Selected Coursework
-+ *PhD Level Math:* Real Variables, Probability Theory, Stochastic Analysis, Large Deviation, Theory of ODEs, Intro to PDEs, Convex Optimization, Machine Learning;
++ *PhD Level Math:* Real & Complex Analysis, Probability Theory & Stochastic Analysis, Theory of ODEs, Intro to PDEs, Convex Optimization, Machine Learning;
 + *Grad Level Mathematical Finance:* Simulation and optimization for finance, Stochastic calculus and derivative pricing models, Market
 microstructure and algorithmic trading, Risk and portfolio management;
 + *Undergrad Level:* Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Abstract Algebra I, Combinatorics, Computer Systems Organization
