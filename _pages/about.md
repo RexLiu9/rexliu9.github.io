@@ -13,19 +13,21 @@ I am Rex Liu, a second-year student in the Master of Science in [Computational F
 + *PhD Level Math:* Real Variables, Probability Theory, Stochastic Analysis, Large Deviation, Theory of ODEs, Intro to PDEs, Convex Optimization, Machine Learning;
 + *Grad Level Mathematical Finance:* Simulation and optimization for finance, Stochastic calculus and derivative pricing models, Market
 microstructure and algorithmic trading, Risk and portfolio management;
-+ *Undergrad Level:* Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Algebra, Combinatorics, Computer Systems Organization
++ *Undergrad Level:* Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Abstract Algebra I, Combinatorics, Computer Systems Organization
 
 ### Writing Samples
 *Some sections have been intentionally omitted at the request of the faculty.*
 + [Lecture Notes and Problem Sets with Solutions to Stochastic Calculus for Finance II](https://rexliu9.github.io/files/Stochastic_Calculus_for_Finance_II.pdf)
 
 ### Projects
-+ (Ongoing, with a ten-page preview) [Preparation for Quantitative Finance Interviews](https://rexliu9.github.io/files/Quant_Interview_Prep_prev.pdf)
++ (Ongoing, over 200 pages completed with over 180 exercises) [Preparation for Quantitative Finance Interviews (Preview)](https://rexliu9.github.io/files/Quant_Interview_Prep_prev.pdf)
 + Research Presentation in Convex Optimization: [The Proximal Point Method: An Introduction](https://rexliu9.github.io/files/Cvx_Proximal_Point_methods.pdf)
 + Research Report in Large Deviation and Interface Models: [Cluster Swapping Techniques and Properties of Surface Tension](https://rexliu9.github.io/files/Properties_of_Surface_Tension.pdf), with Jianliang Ye
 + Research Report in Machine Learning: [Class Embeddings Enter Class-conditional Diffusion Models](https://rexliu9.github.io/files/ceec_diffusion.pdf), with Zixuan Dong, Chuanyang Jin, and Peiqi Liu
 + Research Presentation in Cryptocurrency and Blockchains: [Shamir’s secret sharing](https://rexliu9.github.io/files/Shamir’s_secret_sharing.pdf), with Sushmanth Kakulla and Paul Wawszczyk
 + Research Presentation in Topological Graph Theory: [The Heawood Conjecture: An Introduction](https://rexliu9.github.io/files/sure_slides.pdf)
 
-### Interests
-Cinema studies, culinary arts, and paleontology.
+### Miscellaneous
++ *Programming Languages*: Python, Q, R, MATLAB, Julia, Java, C/C++
++ *Competition Honors*: 3rd place at Harvard-MIT Math Tournament, AMC/AIME MOP cutoff, Ross math camp alum
++ *Interests*: Cinema studies, Paleontology, Culinary arts
