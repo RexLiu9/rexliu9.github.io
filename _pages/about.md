@@ -19,6 +19,7 @@ microstructure and algorithmic trading, Risk and portfolio management;
 *Most of the following are samples containing selected pages from the full document, intended to demonstrate the style and scope of the full work. In accordance with faculty requests to uphold academic integrity, the rest are not publicly available.*
 + [Lecture Notes on Stochastic Calculus for Finance II](https://rexliu9.github.io/files/Stochastic_Calculus_for_Finance_II.pdf)
 + [Problem Sets with Solutions to Convex Optimization](https://rexliu9.github.io/files/Convex_opt_matlab_sample.pdf)
++ [Problem Sets with Solutions to Probability Theory and Stochastic Analysis](https://rexliu9.github.io/files/Prob_Stoch_Pset_Sol_Sample.pdf)
 
 ### Projects
 + (Ongoing, over 200 pages completed with over 180 exercises) [Preparation for Quantitative Finance Interviews (Preview)](https://rexliu9.github.io/files/Quant_Prep_prev.pdf)
