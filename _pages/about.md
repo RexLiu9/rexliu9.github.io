@@ -16,8 +16,9 @@ microstructure and algorithmic trading, Risk and portfolio management;
 + *Undergrad Level:* Honors Numerical Analysis, Data Structures & Algorithms, Mathematical Statistics, Honors Abstract Algebra I, Combinatorics, Computer Systems Organization
 
 ### Writing Samples
-*Some sections have been intentionally omitted at the request of the faculty.*
-+ [Lecture Notes and Problem Sets with Solutions to Stochastic Calculus for Finance II](https://rexliu9.github.io/files/Stochastic_Calculus_for_Finance_II.pdf)
+*Most of the following are samples containing selected pages from the full document, intended to demonstrate the style and scope of the full work. In accordance with faculty requests to uphold academic integrity, the rest are not publicly available.*
++ [Lecture Notes on Stochastic Calculus for Finance II](https://rexliu9.github.io/files/Stochastic_Calculus_for_Finance_II.pdf)
++ [Problem Sets with Solutions to Convex Optimization](https://rexliu9.github.io/files/Convex_opt_matlab_sample.pdf)
 
 ### Projects
 + (Ongoing, over 200 pages completed with over 180 exercises) [Preparation for Quantitative Finance Interviews (Preview)](https://rexliu9.github.io/files/Quant_Prep_prev.pdf)
